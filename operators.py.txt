@@ -1,2 +1,4 @@
-THis is my sample code.
-This is for learning Git.
+print(5>10)
+city1=='Chennai'
+print('chennai' is city1)
+print('pqrs'>'abcde')
